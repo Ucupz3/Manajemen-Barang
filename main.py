@@ -17,7 +17,7 @@ class MainWindow(QMainWindow):
         self.setGeometry(200, 100, 420, 300)
         self.setStyleSheet("""
             QPushButton {
-                padding: 10px;
+                padding: 20px;
                 font-size: 14px;
                 border-radius: 8px;
             }
